@@ -38,35 +38,7 @@ loss
 acc
 ---
 
-Test Loss: 1.646891
-
-
-Test Accuracy of     0: 33% (10/30)
-
-Test Accuracy of     1: 36% (11/30)
-
-Test Accuracy of     2: 56% (17/30)
-
-Test Accuracy of     3: 33% (10/30)
-
-Test Accuracy of     4: 36% (11/30)
-
-Test Accuracy of     5: 76% (23/30)
-
-Test Accuracy of     6: 33% (10/30)
-
-Test Accuracy of     7: 73% (22/30)
-
-Test Accuracy of     8: 23% ( 7/30)
-
-Test Accuracy of     9: 36% (11/30)
-
-Test Accuracy of    10: 46% (14/30)
-
-Test Accuracy of    11: 50% (15/30)
-
-
-Test Accuracy (Overall): 44% (161/360)
+![image](https://user-images.githubusercontent.com/40969794/125669715-390e1ba6-9623-4ffe-ad81-2db0d8f405ff.png)
 
 
 
