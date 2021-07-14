@@ -33,8 +33,7 @@ resnet18效果一般，下图是lr=0.0001跑100轮的效果，虽然训练损失
 loss
 ---
 
-![image](https://user-images.githubusercontent.com/40969794/125669967-3a2743fc-b4ca-4518-bb20-799529966064.png)
-
+![image](https://user-images.githubusercontent.com/40969794/125670226-59acd1d4-fe1b-41f9-884b-b5caf79282e1.png)
 
 acc
 ---
