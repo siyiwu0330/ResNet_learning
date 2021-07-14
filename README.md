@@ -27,4 +27,34 @@ ResNet理论上的功能：
 ![image](https://user-images.githubusercontent.com/40969794/125482497-4f748f11-30ba-4fa0-b801-62ba7a645388.png)
 
 
+## resnet18
+resnet18效果一般，下图是lr=0.0001跑100轮的效果
+
+loss
+---
+
+![image](https://user-images.githubusercontent.com/40969794/125669324-29e21f26-dffd-462e-8f7f-2f1402f0b47b.png)
+
+acc
+---
+
+Test Loss: 1.646891
+
+Test Accuracy of     0: 33% (10/30)
+Test Accuracy of     1: 36% (11/30)
+Test Accuracy of     2: 56% (17/30)
+Test Accuracy of     3: 33% (10/30)
+Test Accuracy of     4: 36% (11/30)
+Test Accuracy of     5: 76% (23/30)
+Test Accuracy of     6: 33% (10/30)
+Test Accuracy of     7: 73% (22/30)
+Test Accuracy of     8: 23% ( 7/30)
+Test Accuracy of     9: 36% (11/30)
+Test Accuracy of    10: 46% (14/30)
+Test Accuracy of    11: 50% (15/30)
+
+Test Accuracy (Overall): 44% (161/360)
+
+
+
 
