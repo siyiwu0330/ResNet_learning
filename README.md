@@ -28,17 +28,21 @@ ResNet理论上的功能：
 
 
 ## resnet18
-resnet18效果一般，下图是lr=0.0001跑100轮的效果，虽然训练损失还没有完全收敛，但是从验证损失可以看到模型已经考试出现过拟合的现象，此时的acc还是只有不到50%
+resnet18效果一般，下图分别是是lr=0.0001和lr=0.001时跑100轮的效果，虽然训练损失还没有完全收敛，但是从验证损失可以看到模型已经考试出现过拟合的现象
 
 loss
 ---
 
 ![image](https://user-images.githubusercontent.com/40969794/125670226-59acd1d4-fe1b-41f9-884b-b5caf79282e1.png)
+![image](https://user-images.githubusercontent.com/40969794/125735039-8751aa14-648f-45cb-a337-8a8c6f375e87.png)
+
 
 acc
 ---
 
 ![image](https://user-images.githubusercontent.com/40969794/125669715-390e1ba6-9623-4ffe-ad81-2db0d8f405ff.png)
+![image](https://user-images.githubusercontent.com/40969794/125735053-2f845057-2d69-4615-8893-f1804bf3ca59.png)
+
 
 
 
