@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""ResNet_test_1_res18.ipynb
-
-# import zipfile
-# with zipfile.ZipFile('/content/drive/MyDrive/code/datasets/cat_classification.zip', 'r') as zip_ref:
-#     zip_ref.extractall('/content/drive/MyDrive/code/datasets/cat_classification')
 
 from __future__ import print_function
 #%matplotlib inline
