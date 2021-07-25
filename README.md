@@ -1,6 +1,6 @@
 # ResNet_learning
 
-## ResNet浅谈
+## ResNet浅尝辄止
 网络层数过多导致了以下两个主要问题：
 
 1. 梯度消失和梯度爆炸
